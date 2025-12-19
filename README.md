@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-[cite_start]A passionate learner and explorer of the digital world, specializing in **Machine Learning**, **Deep Learning**, and **Full-Stack Development** . [cite_start]I thrive on unraveling the mysteries of technology and building tools like **DetectAI** to bridge the trust gap in our AI-driven world [cite: 4-6].
+A passionate learner and explorer of the digital world, specializing in **Machine Learning**, **Deep Learning**, and **Full-Stack Development**. I thrive on unraveling the mysteries of technology and building tools like **DetectAI** to bridge the trust gap in our AI-driven world.
 
 ---
 
@@ -20,29 +20,30 @@
 ---
 
 ### 🚀 Featured Project: DetectAI
-[cite_start]**[DetectAI](https://github.com/SUFIYAN2004/hybrid_ai_text_detector)** is a hybrid authenticity system that uses dual independent analyses (ML & DL) to identify AI-generated text [cite: 2, 7-9].
-- [cite_start]**Performance**: Achieved **99.7% Accuracy** with a processing speed of **0.4s**[cite: 92, 93].
-- [cite_start]**Stack**: Python, Flask, TensorFlow, Scikit-learn, and NLTK [cite: 12-14, 20-22].
-- [cite_start]**UI**: High-performance dashboard built with **Tailwind CSS & Bootstrap**[cite: 15, 61].
+**[DetectAI](https://github.com/SUFIYAN2004/hybrid_ai_text_detector)** is a hybrid authenticity system that uses dual independent analyses (ML & DL) to identify AI-generated text.
+
+* **Performance:** Achieved **99.7% Accuracy** with a processing speed of **0.4s**.
+* **Stack:** Python, Flask, TensorFlow, Scikit-learn, and NLTK.
+* **UI:** High-performance dashboard built with **Tailwind CSS & Bootstrap**.
 
 ---
 
 ### 👀 Interests & Expertise
-- [cite_start]🤖 **Machine Learning & AI**: Building robust text classification pipelines[cite: 2, 6, 60].
-- [cite_start]📊 **Data Science**: Analyzing statistical patterns in human vs. AI datasets[cite: 6, 18].
-- [cite_start]🧩 **Problem Solving**: Creating scalable, platform-independent digital solutions[cite: 62, 64].
+* 🤖 **Machine Learning & AI:** Building robust text classification pipelines and dual-model systems.
+* 📊 **Data Science:** Analyzing statistical patterns in human vs. AI datasets for content verification.
+* 🧩 **Problem Solving:** Creating scalable, platform-independent digital solutions.
 
 ### 🌱 Currently Learning
-- [cite_start]**Advanced Algorithms**: Implementing ensemble scoring for hybrid models[cite: 74].
-- [cite_start]**Cloud Deployment**: Moving AI models from local environments to the cloud[cite: 77].
-- [cite_start]**NLP**: Mastering advanced tokenization and TF-IDF vectorization[cite: 44, 48].
+* **Advanced Algorithms:** Implementing weighted ensemble scoring for hybrid AI models.
+* **Cloud Deployment:** Scaling applications using AWS and Azure architectures.
+* **NLP Deep-Dives:** Mastering complex tokenization and linguistic pattern recognition.
 
 ### 💞 Let's Collaborate
-[cite_start]I’m looking for exciting projects that challenge my skills and want to contribute to innovative solutions in **Machine Learning** and **AI Integrity**[cite: 6, 57].
+I’m looking for exciting projects that challenge my skills and want to contribute to innovative solutions in **Machine Learning** and **AI Integrity**.
 
 ### 📫 Connect with Me
-- **LinkedIn**: https://www.linkedin.com/in/mohammedsufiyanv/
-- **Pronouns**: He/Him
+- **LinkedIn:** https://www.linkedin.com/in/mohammedsufiyanv/
+- **Pronouns:** He/Him
 
 ---
 
